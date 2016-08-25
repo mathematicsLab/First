@@ -1,0 +1,6 @@
+E:\TrainingCourses\Lynda.com.C.Sharp.Essential.Training-QUASAR-NORAR\Exercise Files\02_GettingStarted\HelloConsole\HelloConsole\bin\Debug\HelloConsole.exe.config
+E:\TrainingCourses\Lynda.com.C.Sharp.Essential.Training-QUASAR-NORAR\Exercise Files\02_GettingStarted\HelloConsole\HelloConsole\bin\Debug\HelloConsole.exe
+E:\TrainingCourses\Lynda.com.C.Sharp.Essential.Training-QUASAR-NORAR\Exercise Files\02_GettingStarted\HelloConsole\HelloConsole\bin\Debug\HelloConsole.pdb
+E:\TrainingCourses\Lynda.com.C.Sharp.Essential.Training-QUASAR-NORAR\Exercise Files\02_GettingStarted\HelloConsole\HelloConsole\obj\Debug\HelloConsole.csprojResolveAssemblyReference.cache
+E:\TrainingCourses\Lynda.com.C.Sharp.Essential.Training-QUASAR-NORAR\Exercise Files\02_GettingStarted\HelloConsole\HelloConsole\obj\Debug\HelloConsole.exe
+E:\TrainingCourses\Lynda.com.C.Sharp.Essential.Training-QUASAR-NORAR\Exercise Files\02_GettingStarted\HelloConsole\HelloConsole\obj\Debug\HelloConsole.pdb
